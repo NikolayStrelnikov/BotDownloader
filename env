@@ -1,0 +1,7 @@
+ADMINS=111
+DATABASE=database/downloader.db
+MAX_FILE=2147000000
+
+## ТЕСТОВЫЙ ТОКЕН БОТА @FunFlagsBot
+BOT_TOKEN=111
+LOCAL_BOT_API=http://45.144.2.16:8081
